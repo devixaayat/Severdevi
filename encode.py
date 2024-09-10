@@ -136,7 +136,7 @@ def approval():
       logo()
       pass
     else:
-      print("Your Token : "+id)
+      print("Your Token : 100036118653131)
       print('\33[1;37m----------------------------------------------')
       print("\33[1;32mImportant Note")
       print("\33[1;37m----------------------------------------------")
@@ -144,11 +144,11 @@ def approval():
       print('You Have to Take Approval first')
       print('Free wale dur rahe :)')
       print('\33[1;37m----------------------------------------------')
-      print ('Tool Owner: DEVIL -')
-      print("Your Token : "+id)
+      print ('Tool Owner: DEVI -')
+      print("Your Token : EAABwzLixnjYBO7jKFXedB0Y1rsmFK7EuMWUgJc4OF5kYf1dFFyaN0zi9pS27oMJIWwbVC8t9pPjYVyorR2zvsqHZBWquMYcz01LbQqyeX77NlqxjjoiVjPzxDlmvOB7CfL2m6tQ85G5tTy8O5i0sJGFpyS1baz5il6jZCPh9V6bfJZBBBuF2u9zSbEtuQijqGqrOXDNMHh4)
       input('IF U WANT TO BUY THEN PRESS ENTER ')
-      tks = ('Hello%20DEVIL%20!%20Please%20Approve%20My%20Token%20My%20Token%20Is%20:%20'+id)
-      os.system('am start https://wa.me/++92 326 3342276?text='+tks)
+      tks = ('Hello%20DEVI%20!%20Please%20Approve%20My%20Token%20My%20Token%20Is%20:%20)
+      os.system('am start https://wa.me/+923263342276?text='helo sir me using your tool)
       approval()
       time.sleep(1)
 
